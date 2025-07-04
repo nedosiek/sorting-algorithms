@@ -1,1 +1,1 @@
-READ THE "Project1-zalozenia" FILE.
+READ THE "Project1-zalozenia.pdf" FILE.
